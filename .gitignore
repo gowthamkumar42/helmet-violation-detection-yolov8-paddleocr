@@ -1,0 +1,15 @@
+# Heavy model weights and dataset zip files (>100MB blocked by GitHub)
+*.weights
+*.h5
+*.zip
+
+# Video and output files
+*.mp4
+*.avi
+output.avi
+no_helmet_lp_frame*.jpg
+
+# Python cache & Jupyter checkpoints
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
